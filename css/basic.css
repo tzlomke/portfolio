@@ -308,6 +308,10 @@ h6 {
 	color: #292929;
 }
 
+.basic-font {
+	font-family: 'Poppins', helvetica;
+}
+
 @media (max-width: 1079px) {
 	h1,
 	h2,
